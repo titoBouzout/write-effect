@@ -1,13 +1,16 @@
 {
 	"name": "@titodp/write-effect",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "It tracks changes, and deep changes on an object. Runs a callback whenever something changes, an effect.",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/titoBouzout/write-effect.git"
 	},
-	"keywords": ["effect", "proxy"],
+	"keywords": [
+		"effect",
+		"proxy"
+	],
 	"author": "Tito Bouzout",
 	"license": "GPL",
 	"bugs": {
