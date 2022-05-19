@@ -1,0 +1,30 @@
+{
+	"name": "@titodp/write-effect",
+	"version": "0.1.4",
+	"description": "It tracks changes, and deep changes on an object. Runs a callback whenever something changes, an effect.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/titoBouzout/write-effect.git"
+	},
+	"keywords": ["effect", "proxy"],
+	"author": "Tito Bouzout",
+	"license": "GPL",
+	"bugs": {
+		"url": "https://github.com/titoBouzout/write-effect/issues"
+	},
+	"homepage": "https://github.com/titoBouzout/write-effect#readme",
+	"prettier": {
+		"printWidth": 100,
+		"useTabs": true,
+		"semi": false,
+		"singleQuote": true,
+		"jsxSingleQuote": false,
+		"trailingComma": "all",
+		"bracketSpacing": true,
+		"jsxBracketSameLine": false,
+		"arrowParens": "avoid",
+		"quoteProps": "preserve",
+		"proseWrap": "preserve"
+	}
+}
